@@ -1,0 +1,5 @@
+user_num = input('Введите число - ')
+num1 = int(user_num)
+num2 = int(user_num + user_num)
+num3 = int(user_num + user_num + user_num)
+print(f'{num1 + num2 + num3}')
